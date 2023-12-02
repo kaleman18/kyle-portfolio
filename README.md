@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Welcome to Kyle's Portfolio !
 
-Make it your own! 
+Here is a link to the live website. Hope you enjoy! 
+
+[Kyle's Website!](https://lighthearted-kleicha-a66fef.netlify.app)
